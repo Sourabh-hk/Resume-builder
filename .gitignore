@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+.DS_Store
+*.log
+test-*.js
+server/node_modules/
+server/.env
+server/test_*.js
