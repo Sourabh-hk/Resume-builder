@@ -1,5 +1,7 @@
 # ResumeAI
 
+**Live Demo:** [https://resume-builder-six-pi-28.vercel.app](https://resume-builder-six-pi-28.vercel.app)
+
 ![ResumeAI](https://via.placeholder.com/1200x600/0f172a/6366f1?text=ResumeAI+-+AI+Powered+Resume+Builder)
 
 ResumeAI is an advanced, premium, completely free-to-use resume builder designed specifically for modern professionals and developers. Built with React and Node.js, and powered by Gemini AI, it helps you craft ATS-optimized, high-converting resumes in minutes.
